@@ -1,7 +1,7 @@
-#Arquivos básicos para aplicações PHP.
+# Arquivos básicos para aplicações PHP.
 -
 >Componentes. 
 
 
-*autload
-*config
+* autload
+* config
